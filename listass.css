@@ -1,0 +1,16 @@
+ol{
+  background-color: black;
+  color: white;
+  font-family: serif;
+  padding: 8px;
+  padding-left: 10px;
+}
+li{
+  background-color: rgb(99, 93, 93);
+  margin-bottom: 10px;
+  padding: 20px ;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 18px;
+  margin-right: 10px;
+}
